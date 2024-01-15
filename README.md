@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, art, basketball, and pirate history.
 - 🌱 I’m currently learning python, R, Tableau
 - 💞️ I’m looking to collaborate on creative projects.
-- 📫 How to reach me here's fine.
+- 📫 How to reach me https://avigranite.com
 
 <!---
 AviGranite/AviGranite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
